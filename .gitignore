@@ -1,5 +1,17 @@
-*.tmp
+# Logs
+*.log
+
+# App config and log
 urls.txt
-url-check.log
 last-failures.txt
 run-hidden.vbs
+
+# Temporary files
+*.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
