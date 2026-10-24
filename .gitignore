@@ -1,0 +1,5 @@
+*.tmp
+urls.txt
+url-check.log
+last-failures.txt
+run-hidden.vbs

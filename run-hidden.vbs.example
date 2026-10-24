@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run """C:\Program Files\nodejs\node.exe"" ""C:\tools\url-check\check-urls.mjs""", 0, False
